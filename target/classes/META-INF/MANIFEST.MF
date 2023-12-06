@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: get-header
+Implementation-Version: 1.0
+Built-By: 18942
+Implementation-Vendor-Id: com.mkyong
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/get-header/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
